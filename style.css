@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 8px;
+    text-align: center;
+
+}
+.items{
+    display: flex;
+    gap: 12px;
+    list-style: none;
+}
