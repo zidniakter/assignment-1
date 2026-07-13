@@ -198,3 +198,10 @@ h3{
     display: flex;
     gap: 12px;
 }
+
+/*Job board section start*/
+.job-board{
+    padding: 80px 10%;
+    background-color: #f5f7fb;
+    text-align: center;
+}
